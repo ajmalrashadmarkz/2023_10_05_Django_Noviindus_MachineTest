@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d98b5855-d0ae-49a0-ad19-b762d9650866" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/api_social/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_social/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_social/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_social/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_social/migrations/0002_postmodel_tagspostmodel_likepostmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_social/migrations/0003_alter_postmodel_postid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_social/migrations/0004_alter_postmodel_postid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_social/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_social/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_social/serializer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_social/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_social/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_social/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apis/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apis/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apis/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apis/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apis/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apis/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apis/serializer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apis/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apis/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apis/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/migrations/0002_alter_post_id.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/migrations/0003_likeorunlike_delete_likes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/post_delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/post_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/post_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/post_new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/tag_new.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2M8TotEYcc6jHcob54PrDms2ueK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/2023/10_Oct/01_Programming/01_Django/01_Machine Test/03_EWire - API",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d98b5855-d0ae-49a0-ad19-b762d9650866" name="Changes" comment="" />
+      <created>1677148387935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677148387935</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/articles/urls.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
