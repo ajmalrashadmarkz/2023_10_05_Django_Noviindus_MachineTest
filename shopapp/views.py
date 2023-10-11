@@ -3,13 +3,14 @@ from django.shortcuts import render
 from django.shortcuts import render, get_object_or_404
 from django.urls import reverse
 from django.core.paginator import Paginator, EmptyPage, InvalidPage
-from django.views.generic.edit import CreateView
 from .models import Category, Product
 from .forms import ProductForm, CategoryForm
 
 # Create your views here.
 # def index(request):
 #     return HttpResponse("Hey am here")
+
+
 
 
 def allProductCat(request, c_slug=None):
@@ -46,13 +47,4 @@ def checkout(request):
     return render(request, "checkout.html")
 
 
-class ProductCreateView(CreateView):  # new
-    model = Product
-    template_name = "item_new.html"
-    fields = ("name",)
 
-
-# class CatagoryCreateView(CreateView):  # new
-#     model = CategoryForm
-#     template_name = "catagery_new.html"
-#     fields = "__all__"
